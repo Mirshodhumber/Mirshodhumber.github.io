@@ -1,0 +1,47 @@
+body { 
+    font-family: Arial, serif;
+    width: 650px;
+    border: 10px double blue;
+    padding: 20px;
+    border-radius: 1px;
+    margin: 30px;
+    background-color: white;
+}
+.that { 
+    margin: 2px;
+    color: blue;
+    font-family: Arial, sans-serif;
+    height: 28px;
+    padding: 2px;
+}
+.one, .two {
+    text-align: right;
+    color: blue;
+}
+footer {
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    border-top: 4px solid blue;
+    padding-top: 20px;
+}
+img {
+    margin: 10px;
+}
+h3 { 
+    font-size: 18px;
+}
+h2 { 
+    font-size: 20px;
+}
+.container {
+    background-color: white;
+}
+html { 
+    background-color: yellow;
+}
+h1{ 
+    font-size: 28px;
+    padding-top: 15px;
+color: blue;
+}
