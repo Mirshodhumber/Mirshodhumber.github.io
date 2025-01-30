@@ -2,11 +2,18 @@ body {
     font-family: sans-serif;
 }
 h1 { 
-    color: #df9028;
-    box-shadow:black;
+    color: peru;
+    text-shadow: 2px 2px 2px black;
     
 }
-h3 {
+.www {
     padding-left: 100px;
 
+}
+h2 {
+
+}
+ul
+{
+    color: peru;
 }
